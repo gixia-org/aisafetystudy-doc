@@ -1,6 +1,13 @@
 # aisafetystudy-doc
 
-本仓库包含**AI安全学习小组**开展活动的记录和总结。建议参考以下流程开展活动：
+本仓库包含**AI安全学习小组**开展活动的记录和总结。
+
+## 目录
+- [AI塑造未来共学研讨会](seminar-01.md)
+
+
+## 共建流程
+建议参考以下流程开展活动：
 
 1. 在Issue中发起活动倡议。
 2. 由发起者本人或其他人在[According.Work](https://according.work/projects/681d7b36c8e2d5a20329b500?projectName=aisafetystudy-doc)上申请主持该活动。
