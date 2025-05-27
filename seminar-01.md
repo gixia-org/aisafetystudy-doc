@@ -12,3 +12,5 @@
 4. Bilibili投稿：[AI塑造未来：共学研讨会](https://www.bilibili.com/video/BV129VSziE67)
 
 未参与的同学可以查看1、2、4，回顾整个活动内容。
+
+活动海报：![AI塑造未来共学研讨会](assets/AI塑造未来共学研讨会.png)

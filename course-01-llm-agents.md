@@ -20,15 +20,19 @@ UC Berkeley 作为传统 AI 强校，联合众多前沿 AI 实验室，推出了
 
 | 日期 | 小节名称 | 主讲人 | 视频回放 | 课后习题 |
 |---|---|---|---|---|
-|2025/5/22| [LLM Reasoning](https://rdi.berkeley.edu/llm-agents-mooc/slides/llm-reasoning.pdf) | 一蓑客 (According.Work) | [Bilibili](https://www.bilibili.com/video/BV13YjEzhEWD/?share_source=copy_web&vd_source=3f258476a6487ba5ca6427ce85ef2d5f) | [腾讯问卷](https://docs.qq.com/form/page/DTWRUYm5TdENOb1Fn)
-| 待定 | [LLM agents: brief history and overview](https://rdi.berkeley.edu/llm-agents-mooc/slides/llm_agent_history.pdf) | 待定 |  |  |
-| 待定 | [Agentic AI Frameworks & AutoGen](https://rdi.berkeley.edu/llm-agents-mooc/slides/autogen.pdf) + [Building a Multimodal Knowledge Assistant](https://rdi.berkeley.edu/llm-agents-mooc/slides/MKA.pdf) | 待定 |  |
-| 待定 | [Enterprise trends for generative AI, and key components of building successful agents/applications](https://rdi.berkeley.edu/llm-agents-mooc/slides/Burak_slides.pdf) | 待定 |  |
-| 待定 | [Compound AI Systems & the DSPy Framework](https://rdi.berkeley.edu/llm-agents-mooc/slides/dspy_lec.pdf) | 待定 |  |
-| 待定 | [Agents for Software Development](https://rdi.berkeley.edu/llm-agents-mooc/slides/neubig24softwareagents.pdf) | 待定 |  |
-| 待定 | [AI Agents for Enterprise Workflows](https://rdi.berkeley.edu/llm-agents-mooc/slides/agentworkflows.pdf) | 待定 |  |
-| 待定 | [Towards a unified framework of Neural and Symbolic Decision Making](https://rdi.berkeley.edu/llm-agents-mooc/slides/102824-yuandongtian.pdf) | 待定 |  |
-| 待定 | [Project GR00T: A Blueprint for Generalist Robotics](https://rdi.berkeley.edu/llm-agents/assets/jimfangr00t.pdf) | 待定 |  |
-| 待定 | [Open-Source and Science in the Era of Foundation Models](https://rdi.berkeley.edu/llm-agents-mooc/slides/percyliang.pdf) | 待定 |  |
-| 待定 | [Measuring Agent capabilities and Anthropic’s RSP](https://rdi.berkeley.edu/llm-agents-mooc/slides/antrsp.pdf) | 待定 |  |
-| 待定 | [Towards Building Safe & Trustworthy AI Agents and A Path for Science‑ and Evidence‑based AI Policy](https://rdi.berkeley.edu/llm-agents/assets/dawn-agent-safety.pdf) | 待定 |  |
+|2025/5/22| [LLM Reasoning](course-01-llm-agents/chapter-01-llm-reasoning.md) | 一蓑客 (According.Work) | [Bilibili](https://www.bilibili.com/video/BV13YjEzhEWD/?share_source=copy_web&vd_source=3f258476a6487ba5ca6427ce85ef2d5f) | [腾讯问卷](https://docs.qq.com/form/page/DTWRUYm5TdENOb1Fn)
+| 待定 | LLM agents: brief history and overview | 待定 |  |  |
+| 待定 | Agentic AI Frameworks & AutoGen + Building a Multimodal Knowledge Assistant | 待定 |  |
+| 待定 | Enterprise trends for generative AI, and key components of building successful agents/applications | 待定 |  |
+| 待定 | Compound AI Systems & the DSPy Framework | 待定 |  |
+| 待定 | Agents for Software Development | 待定 |  |
+| 待定 | AI Agents for Enterprise Workflows | 待定 |  |
+| 待定 | Towards a unified framework of Neural and Symbolic Decision Making | 待定 |  |
+| 待定 | Project GR00T: A Blueprint for Generalist Robotics | 待定 |  |
+| 待定 | Open-Source and Science in the Era of Foundation Models | 待定 |  |
+| 待定 | Measuring Agent capabilities and Anthropic’s RSP | 待定 |  |
+| 待定 | Towards Building Safe & Trustworthy AI Agents and A Path for Science‑ and Evidence‑based AI Policy | 待定 |  |
+
+## 宣传海报
+
+![LLM Agents 共学计划第1节](assets/LLMAgents共学计划.png)
