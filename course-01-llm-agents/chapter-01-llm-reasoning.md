@@ -10,7 +10,7 @@
 - 时间：2025年5月22日 20:00-22:00
 - 共学地点：腾讯会议
 - 主讲人：一蓑客（According.Work, [X](https://x.com/hunknownz)）
-- 课程回放：[Bilibili](https://www.bilibili.com/video/BV13YjEzhEWD)
+- 课程回放：[LLM Agents共学计划第1节：LLM Reasoning](https://www.bilibili.com/video/BV13YjEzhEWD)
 
 ## 核心内容
 
