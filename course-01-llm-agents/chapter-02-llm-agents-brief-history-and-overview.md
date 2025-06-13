@@ -91,4 +91,6 @@ Correct Answer: B
 
 课后习题与反馈问卷：[腾讯问卷](https://docs.qq.com/form/page/DTXR0WGRCU2tKa1BR)
 
-宣传海报：![LLM共学计划第2节](../assets/LLMAgents共学计划第2节.png)
+宣传海报：![第2节预告](../assets/LLMAgents共学计划/第2节预告.png)
+
+总结海报：![第2节总结](../assets/LLMAgents共学计划/第2节总结.png)

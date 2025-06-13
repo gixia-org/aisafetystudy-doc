@@ -55,9 +55,9 @@ Correct Answer: C
 
 课后习题与反馈问卷：[腾讯问卷](https://docs.qq.com/form/page/DTWRUYm5TdENOb1Fn)
 
-宣传海报：![LLM共学计划第1节](../assets/LLMAgents共学计划第1节.png)
+宣传海报：![第1节预告](../assets/LLMAgents共学计划/第1节预告.png)
 
-总结海报：![第1节总结](../assets/LLMAgents第1节总结.png)
+总结海报：![第1节总结](../assets/LLMAgents共学计划/第1节总结.png)
 
 ## 其它
 
