@@ -35,4 +35,4 @@ UC Berkeley 作为传统 AI 强校，联合众多前沿 AI 实验室，推出了
 
 ## 宣传海报
 
-![LLM Agents 共学计划第1节](assets/LLMAgents共学计划.png)
+![LLM Agents 共学计划第1节](assets/LLMAgents共学计划/招募.png)
