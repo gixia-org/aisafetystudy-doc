@@ -15,6 +15,7 @@
 - 共学地点：腾讯会议
 - 主讲人：晨夏梦醒（[Bilibili](https://space.bilibili.com/89566407)）
 - 课程回放：[Agentic AI Frameworks: AutoGen & LlamaIndex](https://www.bilibili.com/video/BV18zM2zQEhp)
+- 主讲人整理的资料：[imagined-space/llm-agent-chapter-3](https://github.com/imagined-space/llm-agent-chapter-3)
 
 ## 核心内容
 
@@ -63,14 +64,19 @@ Correct Answer: C
 
 6. **除了AutoGen和LlamaIndex，你还听说过哪些智能体框架？**
 参考答案：
-   - [LangChain](https://www.langchain.com/)
-   - [MetaGPT](https://mgx.dev/)
-   - [Mastra](https://mastra.ai/)
-   - [CrewAI](https://www.crewai.com/)
+    - 代码框架：
+      - [LangChain](https://www.langchain.com/)
+      - [MetaGPT](https://mgx.dev/)
+      - [Mastra](https://mastra.ai/)
+      - [CrewAI](https://www.crewai.com/)
+   - 低代码框架：
+      - [Dify](https://dify.ai/)
+      - [扣子](https://www.coze.cn/)
+      - [ComfyUI](https://www.comfy.org/)
 
 7. **请用一句话解释为什么我们需要用智能体框架。**
 参考答案：
-    - 智能体框架将构建AI智能体所需的复杂核心功能（如记忆、规划、工具调用）封装为标准化的模块，极大地简化了开发过程，使我们能更快、更轻松地创建出强大的自主AI应用。
+    - 智能体框架将构建AI智能体所需的复杂核心功能（如记忆、规划、工具调用）封装为标准化模块，极大的简化了开发过程，使我们能更快、更轻松地创建出强大的自主AI应用。
 
 ## 互动与反馈
 
