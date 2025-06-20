@@ -14,7 +14,8 @@
 - 时间：2025年6月12日 21:00-22:30
 - 共学地点：腾讯会议
 - 主讲人：晨夏梦醒（[Bilibili](https://space.bilibili.com/89566407)）
-- 课程回放：[Agentic AI Frameworks: AutoGen & LlamaIndex](https://www.bilibili.com/video/BV18zM2zQEhp)
+- 课程回放：[LLM Agents共学计划第3节：Agentic AI Frameworks: Autogen & LlamaIndex
+](https://www.bilibili.com/video/BV18zM2zQEhp)
 - 主讲人整理的资料：[imagined-space/llm-agent-chapter-3](https://github.com/imagined-space/llm-agent-chapter-3)
 
 ## 核心内容

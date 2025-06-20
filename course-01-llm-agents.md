@@ -23,7 +23,7 @@ UC Berkeley 作为传统 AI 强校，联合众多前沿 AI 实验室，推出了
 |2025/5/22| [LLM Reasoning](course-01-llm-agents/chapter-01-llm-reasoning.md) | 一蓑客（According.Work） | [Bilibili](https://www.bilibili.com/video/BV13YjEzhEWD/?share_source=copy_web&vd_source=3f258476a6487ba5ca6427ce85ef2d5f) | [腾讯问卷](https://docs.qq.com/form/page/DTWRUYm5TdENOb1Fn)
 | 2025/6/2 | [LLM Agents: Brief History and Overview](course-01-llm-agents/chapter-02-llm-agents-brief-history-and-overview.md) | Rain（江南大学） | [Bilibili](https://www.bilibili.com/video/BV1ef78zKEBD) | [腾讯问卷](https://docs.qq.com/form/page/DTXR0WGRCU2tKa1BR) |
 | 2025/6/12 | [Agentic AI Frameworks: AutoGen & LlamaIndex](course-01-llm-agents/chapter-03-agentic-ai-frameworks.md) | 晨夏梦醒 | [Bilibili](https://www.bilibili.com/video/BV18zM2zQEhp) | [腾讯问卷](https://docs.qq.com/form/page/DTVFidG5RVW16RnZ3)
-| 2025/6/19 | Enterprise trends for generative AI, and key components of building successful agents/applications | 王金戈 |  |
+| 2025/6/19 | [Enterprise Trends for Generative AI](course-01-llm-agents/chapter-04-enterprise-trends-for-generative-ai.md) | 王金戈 | [Bilibili](https://www.bilibili.com/video/BV1GoKczREyB) | [腾讯问卷](https://docs.qq.com/form/page/DTVZERHVrc0RxTFFO)
 | 待定 | Compound AI Systems & the DSPy Framework | 待定 |  |
 | 待定 | Agents for Software Development | 待定 |  |
 | 待定 | AI Agents for Enterprise Workflows | 待定 |  |
