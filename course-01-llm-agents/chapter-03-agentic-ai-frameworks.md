@@ -84,3 +84,5 @@ Correct Answer: C
 课后习题与反馈问卷：[腾讯问卷](https://docs.qq.com/form/page/DTVFidG5RVW16RnZ3)
 
 宣传海报：![第3节预告](../assets/LLMAgents共学计划/第3节预告.png)
+
+总结海报：![第3节总结](../assets/LLMAgents共学计划/第3节总结.png)
