@@ -24,8 +24,7 @@ UC Berkeley 作为传统 AI 强校，联合众多前沿 AI 实验室，推出了
 | 2025/6/2 | [LLM Agents: Brief History and Overview](course-01-llm-agents/chapter-02-llm-agents-brief-history-and-overview.md) | Rain（江南大学） | [Bilibili](https://www.bilibili.com/video/BV1ef78zKEBD) | [腾讯问卷](https://docs.qq.com/form/page/DTXR0WGRCU2tKa1BR) |
 | 2025/6/12 | [Agentic AI Frameworks: AutoGen & LlamaIndex](course-01-llm-agents/chapter-03-agentic-ai-frameworks.md) | 晨夏梦醒 | [Bilibili](https://www.bilibili.com/video/BV18zM2zQEhp) | [腾讯问卷](https://docs.qq.com/form/page/DTVFidG5RVW16RnZ3)
 | 2025/6/19 | [Enterprise Trends for Generative AI](course-01-llm-agents/chapter-04-enterprise-trends-for-generative-ai.md) | 王金戈 | [Bilibili](https://www.bilibili.com/video/BV1GoKczREyB) | [腾讯问卷](https://docs.qq.com/form/page/DTVZERHVrc0RxTFFO)
-| 待定 | Compound AI Systems & the DSPy Framework | 待定 |  |
-| 待定 | Agents for Software Development | 待定 |  |
+| 2025/7/10 | [Agents for Software Development](course-01-llm-agents/chapter-05-agents-for-software-development.md) | 邹一帆 | [Bilibili](https://www.bilibili.com/video/BV1q6uKzQEL2) | [腾讯问卷](https://docs.qq.com/form/page/DTWd0Z2RuVGpwZmx3)
 | 待定 | AI Agents for Enterprise Workflows | 待定 |  |
 | 待定 | Towards a unified framework of Neural and Symbolic Decision Making | 待定 |  |
 | 待定 | Project GR00T: A Blueprint for Generalist Robotics | 待定 |  |
