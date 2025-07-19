@@ -25,7 +25,7 @@ UC Berkeley 作为传统 AI 强校，联合众多前沿 AI 实验室，推出了
 | 2025/6/12 | [Agentic AI Frameworks: AutoGen & LlamaIndex](course-01-llm-agents/chapter-03-agentic-ai-frameworks.md) | 晨夏梦醒 | [Bilibili](https://www.bilibili.com/video/BV18zM2zQEhp) | [腾讯问卷](https://docs.qq.com/form/page/DTVFidG5RVW16RnZ3)
 | 2025/6/19 | [Enterprise Trends for Generative AI](course-01-llm-agents/chapter-04-enterprise-trends-for-generative-ai.md) | 王金戈 | [Bilibili](https://www.bilibili.com/video/BV1GoKczREyB) | [腾讯问卷](https://docs.qq.com/form/page/DTVZERHVrc0RxTFFO)
 | 2025/7/10 | [Agents for Software Development](course-01-llm-agents/chapter-05-agents-for-software-development.md) | 邹一帆 | [Bilibili](https://www.bilibili.com/video/BV1q6uKzQEL2) | [腾讯问卷](https://docs.qq.com/form/page/DTWd0Z2RuVGpwZmx3)
-| 待定 | AI Agents for Enterprise Workflows | 待定 |  |
+| 2025/7/17 | [Multimodal Agents: From Perception to Action](course-01-llm-agents/chapter-06-multimodal-agents.md) | v | [Bilibili](https://www.bilibili.com/video/BV1vgu9zmEPb) | [腾讯问卷](https://docs.qq.com/form/page/DTUxqUGpNY1huQXZp)
 | 待定 | Towards a unified framework of Neural and Symbolic Decision Making | 待定 |  |
 | 待定 | Project GR00T: A Blueprint for Generalist Robotics | 待定 |  |
 | 待定 | Open-Source and Science in the Era of Foundation Models | 待定 |  |
