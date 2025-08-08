@@ -27,7 +27,7 @@ UC Berkeley 作为传统 AI 强校，联合众多前沿 AI 实验室，推出了
 | 2025/7/10 | [Agents for Software Development](course-01-llm-agents/chapter-05-agents-for-software-development.md) | 邹一帆（微软） | [Bilibili](https://www.bilibili.com/video/BV1q6uKzQEL2) | [腾讯问卷](https://docs.qq.com/form/page/DTWd0Z2RuVGpwZmx3)
 | 2025/7/17 | [Multimodal Agents: From Perception to Action](course-01-llm-agents/chapter-06-multimodal-agents.md) | v（智谱AI） | [Bilibili](https://www.bilibili.com/video/BV1vgu9zmEPb) | [腾讯问卷](https://docs.qq.com/form/page/DTUxqUGpNY1huQXZp)
 | 2025/7/24 | [Towards a unified framework of Neural and Symbolic Decision Making](course-01-llm-agents/chapter-07-towards-a-unified-framework-of-neural-and-symbolic-decision-making.md) | AntiTopQuark | [Bilibili](https://www.bilibili.com/video/BV1ZdbmzHEjg) | [腾讯问卷](https://docs.qq.com/form/page/DTVZ5SVZQcmpoemhT)
-| 待定 | Project GR00T: A Blueprint for Generalist Robotics | 待定 |  |
+| 2025/8/7 | [Project GR00T: A Blueprint for Generalist Robotics](course-01-llm-agents/chapter-08-project-gr00t-a-blueprint-for-generalist-robotics.md) | Ivan Lee | [Bilibili](https://www.bilibili.com/video/BV1iWt1zrEo2) | [腾讯问卷](https://docs.qq.com/form/page/DTWhKV3NEcm15YU9o)
 | 待定 | Open-Source and Science in the Era of Foundation Models | 待定 |  |
 | 待定 | Measuring Agent capabilities and Anthropic’s RSP | 待定 |  |
 | 待定 | Towards Building Safe & Trustworthy AI Agents and A Path for Science‑ and Evidence‑based AI Policy | 待定 |  |
