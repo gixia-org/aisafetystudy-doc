@@ -9,7 +9,7 @@
 
 - 时间：2025年6月2日 14:30-16:00
 - 共学地点：腾讯会议
-- 主讲人：Rain（江南大学，[Bilibili](https://space.bilibili.com/675025557)）
+- 主讲人：Rain（江南大学，[Bilibili](https://space.bilibili.com/675025557)，[GitHub](https://github.com/Hangyaun)）
 - 课程回放：[LLM Agents共学计划第2节：LLM Agents: Brief History and Overview](https://www.bilibili.com/video/BV1ef78zKEBD)
 
 ## 核心内容

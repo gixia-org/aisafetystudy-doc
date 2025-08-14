@@ -12,7 +12,7 @@
 
 - 时间：2025年7月17日 21:00-22:00
 - 共学地点：腾讯会议
-- 主讲人：v（[Bilibili](https://space.bilibili.com/391911247)）
+- 主讲人：v（[Bilibili](https://space.bilibili.com/391911247)，[GitHub](https://github.com/Boris-dotv)）
 - 课程回放：[LLM Agents共学计划第6节：Multimodal Agents: From Perception to Action](https://www.bilibili.com/video/BV1vgu9zmEPb)
 
 ## 核心内容

@@ -9,7 +9,7 @@
 
 - 时间：2025年6月19日 21:00-22:30
 - 共学地点：腾讯会议
-- 主讲人：王金戈（[Bilibili](https://space.bilibili.com/69217382)）
+- 主讲人：王金戈（[Bilibili](https://space.bilibili.com/69217382)，[GitHub](https://github.com/jingedawang)）
 - 课程回放：[LLM Agents共学计划第4节：Enterprise Trends for Generative AI](https://www.bilibili.com/video/BV1GoKczREyB)
 
 ## 核心内容

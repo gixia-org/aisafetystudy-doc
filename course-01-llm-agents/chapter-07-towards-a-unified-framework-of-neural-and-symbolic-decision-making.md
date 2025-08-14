@@ -9,7 +9,7 @@
 
 - 时间：2025年7月24日 21:00-22:00
 - 共学地点：腾讯会议
-- 主讲人：AntiTopQuark（[Bilibili](https://space.bilibili.com/262131733)）
+- 主讲人：AntiTopQuark（[Bilibili](https://space.bilibili.com/262131733)，[GitHub](https://github.com/AntiTopQuark)）
 - 课程回放：[LLM Agents共学计划第7节：Towards a unified framework of Neural and Symbolic Decision Making](https://www.bilibili.com/video/BV1ZdbmzHEjg)
 - 课堂文档：[迈向神经网络和符号决策的统计框架](https://docs.qq.com/doc/DUU5ndHBpZXJNRUht)
 

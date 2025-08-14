@@ -9,7 +9,7 @@
 
 - 时间：2025年8月7日 21:00-22:30
 - 共学地点：腾讯会议
-- 主讲人：Ivan Lee
+- 主讲人：Ivan Lee（[Bilibili](https://space.bilibili.com/361204826)，[GitHub](https://github.com/leeivan1007)）
 - 课程回放：[LLM Agents共学计划第8节：Project GR00T: A Blueprint for Generalist Robotics](https://www.bilibili.com/video/BV1iWt1zrEo2)
 - 课件：[Project GR00T: A Blueprint for Generalist Robotics](https://docs.google.com/presentation/d/1L1WDIwPtbFvhm6dtjkXOwITZGaV6yogdTLEt3TNy9LY/edit?usp=sharing)
 

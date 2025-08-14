@@ -9,7 +9,7 @@
 
 - 时间：2025年7月10日 21:00-22:30
 - 共学地点：腾讯会议
-- 主讲人：邹一帆（[Bilibili](https://space.bilibili.com/614807456)）
+- 主讲人：邹一帆（[Bilibili](https://space.bilibili.com/614807456)，[GitHub](https://github.com/y-vonn)）
 - 课程回放：[LLM Agents共学计划第5节：Agents for Software Development](https://www.bilibili.com/video/BV1q6uKzQEL2)
 
 ## 核心内容
