@@ -6,6 +6,7 @@
 - [AI塑造未来共学研讨会](seminar-01.md) - 已结束
 - [LLM Agents共学计划](course-01-llm-agents.md) - 进行中
 - [黑盒不黑：对神经网络动态极值调节机制的分析](talk-01-black-box-is-not-black.md) - 已结束
+- [谈谈AI的风险与应对措施](talk-02-introduction-to-ai-safety.md) - 已结束
 
 ## 共建流程
 建议参考以下流程开展活动：
