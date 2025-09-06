@@ -58,3 +58,5 @@ Answer: 机器人最终必须解决的核心问题是「在增强人类而非取
 课后习题与反馈问卷：[腾讯问卷](https://docs.qq.com/form/page/DTWhKV3NEcm15YU9o)
 
 宣传海报：![第8节预告](../assets/LLMAgents共学计划/第8节预告.png)
+
+总结海报：![第8节总结](../assets/LLMAgents共学计划/第8节总结.png)
