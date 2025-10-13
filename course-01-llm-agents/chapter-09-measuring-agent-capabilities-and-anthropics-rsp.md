@@ -59,3 +59,5 @@ Correct Answer: D
 课后习题与反馈问卷：[腾讯问卷](https://docs.qq.com/form/page/DTWhwUWhwYXZzZVhW)
 
 宣传海报：![第9节预告](../assets/LLMAgents共学计划/第9节预告.png)
+
+总结海报：![第9节总结](../assets/LLMAgents共学计划/第9节总结.png)
