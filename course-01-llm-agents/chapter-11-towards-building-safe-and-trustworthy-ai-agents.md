@@ -27,7 +27,7 @@
   + 作为行动者的代理（agent）集成感知、规划、工具调用、反馈环节，整个系统较纯 LLM 更复杂、更易受攻击
   + 常见攻击形式包括 Prompt Injection（直接/间接）、SQL 注入、远程代码执行（RCE）、后门、数据中毒 / 知识库污染等
 
-* **防御原则与机制**
++ **防御原则与机制**
   + **Defense-in-Depth**（深度防御）：多层防线组合使用
   + **最小权限 / 权限隔离**：每个子模块只拥有完成其职能所必需的权限
   + **安全设计 / 可验证性**：从设计阶段保证安全属性、尽可能采用形式化验证（formal verification）
@@ -56,7 +56,7 @@ C) LLM Agent Safety deals with securing the model from external attacks, while t
 D) LLM Agent Safety monitors the accuracy of generated outputs, while typical LLM Safety ensures models are unbiased
 Correct Answer: A
 
-5. **Explain the asymmetry between Attacks and Defenses in AI Safety?**
+4. **Explain the asymmetry between Attacks and Defenses in AI Safety?**
 A) Attacks are more difficult to execute but have fewer consequences, while defenses are simple to implement but resource-intensive
 B) Attacks focus on using existing security mechanisms, while defenses create entirely new systems to prevent exploitation
 C) Attacks target AI models with low-risk consequences, while defenses are more focused on theoretical vulnerabilities

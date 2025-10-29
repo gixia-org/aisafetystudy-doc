@@ -30,7 +30,9 @@ UC Berkeley 作为传统 AI 强校，联合众多前沿 AI 实验室，推出了
 | 2025/8/7 | [Project GR00T: A Blueprint for Generalist Robotics](course-01-llm-agents/chapter-08-project-gr00t-a-blueprint-for-generalist-robotics.md) | Ivan Lee | [Bilibili](https://www.bilibili.com/video/BV1iWt1zrEo2) | [腾讯问卷](https://docs.qq.com/form/page/DTWhKV3NEcm15YU9o)
 | 2025/9/4 | [Measuring Agent capabilities and Anthropic’s RSP](course-01-llm-agents/chapter-09-measuring-agent-capabilities-and-anthropics-rsp.md) | landau.qian | [Bilibili](https://www.bilibili.com/video/BV11ha8zxEG6) | [腾讯问卷](https://docs.qq.com/form/page/DTWhwUWhwYXZzZVhW)
 | 2025/9/18 | [Open-Source and Science in the Era of Foundation Models](course-01-llm-agents/chapter-10-open-source-and-science-in-the-era-of-foundation-models.md) | C | [Bilibili](https://www.bilibili.com/video/BV1uBWuzQESN) | [腾讯问卷](https://docs.qq.com/form/page/DTWhiS096b2dTWEND)
-| 2025/10/16 | Towards Building Safe & Trustworthy AI Agents and A Path for Science‑ and Evidence‑based AI Policy | 王金戈 | [Bilibili](https://www.bilibili.com/video/BV1CXWCzuE85) | [腾讯问卷](https://docs.qq.com/form/page/DTUtpSHd3RVdkV29V)
+| 2025/10/16 | [Towards Building Safe & Trustworthy AI Agents and A Path for Science‑ and Evidence‑based AI Policy](course-01-llm-agents/chapter-11-towards-building-safe-and-trustworthy-ai-agents.md) | 王金戈 | [Bilibili](https://www.bilibili.com/video/BV1CXWCzuE85) | [腾讯问卷](https://docs.qq.com/form/page/DTUtpSHd3RVdkV29V)
+
+课后作业成绩见[这里](https://docs.qq.com/sheet/DTUpMV01rdmZCeEJU)。
 
 ## 宣传海报
 
