@@ -6,6 +6,7 @@
 
 | 活动名称 | 日期 |
 |---|---|
+| [数字心智导论——探索人工智能的道德版图](talk-04-digital-minds-introduction.md) | 2026/1/1 |
 | [AI意识测评圆桌论坛](seminar-04-ai-consciousness-evaluation.md) | 2025/12/25 |
 | [AI参与原创内容的边界探讨](seminar-03-aigc-copyright.md) | 2025/12/11 |
 | [AI与人类未来讨论会](seminar-02-ai-and-human-future.md) | 2025/12/4 |
