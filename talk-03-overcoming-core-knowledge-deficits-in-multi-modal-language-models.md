@@ -4,7 +4,7 @@
 + **时间**：20:30~21:30
 + **主讲人**：Dezhi Luo
 + **个人主页**：https://ihzedoul.com/
-+ **小红书**: [carrot](https://www.xiaohongshu.com/user/profile/61a4a25f0000000010005e09?xsec_token=YBAFHyOCcEYkx1obQ0x8k5OJE8GxiXU1BEcSCPWAkCSJc=&xsec_source=app_share&xhsshare=CopyLink&shareRedId=ODY2Q0k7N0I2NzUyOTgwNjY0OTdGSUtN&apptime=1758116399&share_id=fa8101cb61ec4b1d99ba37de8c8825eb)
++ **小红书**: [carrot](https://www.xiaohongshu.com/user/profile/61a4a25f0000000010005e09)
 
 Dezhi Luo现为密歇根大学认知科学本科生，曾在伦敦大学和伦敦大学学院访学，研究方向包括认知科学、意识科学、人工智能等。[GrowAI](https://growing-ai-like-a-child.github.io/)发起人之一，致力于将认知科学、心理学、哲学等领域的“发展心理学” / 核心知识理论引入人工智能研究中，通过设计“成长式”的训练路径，让模型像孩子一样从基础常识核心认知开始发展。
 
