@@ -12,6 +12,7 @@
 
 | 名称 | 日期 |
 |---|---|
+| [牛津学姐带你了解《国际AI安全报告》（上）：能力与风险](talk-06-international-ai-safety-report-part1.md) | 2026/3/12 | 
 | [前沿 AI 风险管理框架实证评估](talk-05-frontier-ai-risk-management-framework-in-practice.md) | 2026/2/26 |
 | [数字心智导论——探索人工智能的道德版图](talk-04-digital-minds-introduction.md) | 2026/1/1 |
 | [AI意识测评圆桌论坛](seminar-04-ai-consciousness-evaluation.md) | 2025/12/25 |
