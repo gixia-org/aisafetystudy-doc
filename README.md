@@ -1,12 +1,16 @@
-# AI安全学习小组
+# AI安全开放社区
 
-欢迎加入**AI安全学习小组**。
+欢迎加入**AI安全开放社区（Open Community for AI Safety China）**。
 
-我们希望打造一个开放、自由、平等的AI安全社区，促进知识分享、学术交流和行业发展，确保AI造福人类社会。
+我们希望打造一个开放、自由、平等的 AI 安全社区，促进知识分享、学术交流和行业发展，确保 AI 造福人类社会。
 
 目前正在开展的活动包括线上讲座和讨论会。后续会推出更多共创项目，敬请期待。
 
-更多内容请访问[官网](https://aisafetystudy.gixia.org/)了解。
+请关注社区的官方账号以获取最新动态
+
++ [Bilibili](https://space.bilibili.com/1770030225)
++ [LinkedIn](https://www.linkedin.com/company/open-community-for-ai-safety-china/)
++ [官网](https://aisafetystudy.gixia.org/)
 
 ## 历史活动
 
@@ -24,16 +28,10 @@
 | [黑盒不黑：对神经网络动态极值调节机制的分析](talk-01-black-box-is-not-black.md) | 2025/8/14 |
 | [AI塑造未来共学研讨会](seminar-01-future-of-ai.md) | 2025/5/9 |
 
-## 共建流程
-
-建议参考以下流程开展活动：
-
-1. 在Issue中发起活动倡议。
-2. 确定主持人和时间后，在微信群和各个平台招募参与者。
-3. 活动后，将相关的文档、视频、代码整理在MarkDown文件中，并提交至本仓库。
-
-借助此流程，我们可以有效共建AI安全社区，并沉淀有价值的学习资源。
-
 ## 社区规范
 
 请遵守[社区规范](CODE_OF_CONDUCT.md)。
+
+## 历史沿革
+
+社区于 2025 年 4 月底成立，原名“AI安全学习小组”。2026 年 3 月更名为“AI安全开放社区”。
